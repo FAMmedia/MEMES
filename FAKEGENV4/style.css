@@ -1,0 +1,12 @@
+#img {
+    height:auto;
+    width:auto;
+}
+
+ul.article_metadata {
+    color:black;
+}
+
+#settings {
+    text-transform: capitalize;
+}
